@@ -1,0 +1,51 @@
+0 FILE ClarfTower.ldr
+0 untitled model
+0 Name: ClarfTower.ldr
+0 Author: Thomas Dickerson
+1 6 60 0 0 1 0 0 0 1 0 -0 0 1 mrdini-with-orange-eye-and-lift-belt.ldr
+0 NOFILE
+0 FILE mrdini-with-orange-eye-and-lift-belt.ldr
+0 Mrdini with lift belt. needs to get a tail, eventually.
+0 Name: mrdini-with-orange-eye-and-lift-belt.ldr
+0 Author: Thomas Dickerson
+1 212 0 16 0 1 0 0 0 1 0 -0 0 1 lift-belt.ldr
+1 212 0 16 0 1 0 0 0 1 0 -0 0 1 lift-belt-torso-complete.ldr
+1 212 0 3 -10 1 0 0 0 1 0 -0 0 1 mrdini-head-with-orange-eye.ldr
+1 212 0 48 0 1 0 0 0 1 0 -0 0 1 dini-legs-young.ldr
+0 NOFILE
+0 FILE mrdini-head-with-orange-eye.ldr
+0 what it says on the tin
+0 Name: mrdini-head-with-orange-eye.ldr
+0 Author: Thomas Dickerson
+1 16 0 0 0 -1 0 0 0 0 1 0 1 0 4070.dat
+1 366 0 -20 4 1 0 0 0 0 -1 0 1 0 30153.dat
+1 16 0 -14 10 1 0 0 0 1 0 -0 0 1 2555.dat
+1 16 0 0 -24 -1 -0 -0 -0 0 1 0 1 -0 4589.dat
+1 16 0 0 24 -0.707107 -0 -0.707107 -0.707107 0 0.707107 0 1 -0 33291.dat
+0 NOFILE
+0 FILE lift-belt.ldr
+0 a 'dini lift belt
+0 Name: lift-belt.ldr
+0 Author: Thomas Dickerson
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 42446.dat
+1 148 0 10 24 -1 -0 0 0 -0 -1 0 -1 0 30162.dat
+1 148 0 10 20 -1 -0 0 -0 -0 -1 0 -1 0 4073.dat
+0 NOFILE
+0 FILE dini-legs-young.ldr
+0 untitled model
+0 Name: dini-legs-young.ldr
+0 Author: Thomas Dickerson
+1 16 9.874332 24 -0.27346 0.984808 0 -0.173648 0 1 0 0.173648 0 0.984808 2599.dat
+1 16 -9.874332 24 -0.27346 0.984808 0 0.173648 0 1 0 -0.173648 0 0.984808 2599.dat
+1 16 0 0 0 1 0 0 0 1 0 -0 0 1 41879a.dat
+0 NOFILE
+0 FILE lift-belt-torso-complete.ldr
+0 a torso with a harness for a lift-belt
+0 Name: lift-belt-torso-complete.ldr
+0 Author: Thomas Dickerson
+1 16 0 0 0 1 0 0 0 1 0 -0 0 1 973pav.dat
+1 16 15.613945 8.558708 0 0.984808 0.173648 0 -0.173648 0.984808 0 0 0 1 3819.dat
+1 16 -15.557552 8.556245 0 0.984808 -0.173648 0 0.173648 0.984808 0 0 0 1 3818.dat
+1 16 -23.786129 26.428968 -10.190182 0.984808 -0.122788 0.122788 0.173648 0.696364 -0.696364 0 0.707107 0.707107 3820.dat
+1 16 23.842522 26.431431 -10.190182 0.984808 0.122788 -0.122788 -0.173648 0.696364 -0.696364 0 0.707107 0.707107 3820.dat
+0 NOFILE
