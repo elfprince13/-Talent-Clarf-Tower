@@ -2,16 +2,16 @@
 0 untitled model
 0 Name: ClarfTower.ldr
 0 Author: Thomas Dickerson
-1 6 60 0 0 1 0 0 0 1 0 -0 0 1 mrdini-with-orange-eye-and-lift-belt.ldr
+1 212 60 0 0 1 0 0 0 1 0 -0 0 1 mrdini-with-orange-eye-and-lift-belt.ldr
 0 NOFILE
 0 FILE mrdini-with-orange-eye-and-lift-belt.ldr
 0 Mrdini with lift belt. needs to get a tail, eventually.
 0 Name: mrdini-with-orange-eye-and-lift-belt.ldr
 0 Author: Thomas Dickerson
-1 212 0 16 0 1 0 0 0 1 0 -0 0 1 lift-belt.ldr
-1 212 0 16 0 1 0 0 0 1 0 -0 0 1 lift-belt-torso-complete.ldr
-1 212 0 3 -10 1 0 0 0 1 0 -0 0 1 mrdini-head-with-orange-eye.ldr
-1 212 0 48 0 1 0 0 0 1 0 -0 0 1 dini-legs-young.ldr
+1 16 0 16 0 1 0 0 0 1 0 -0 0 1 lift-belt.ldr
+1 16 0 16 0 1 0 0 0 1 0 -0 0 1 lift-belt-torso-complete.ldr
+1 16 0 3 -10 1 0 0 0 1 0 -0 0 1 mrdini-head-with-orange-eye.ldr
+1 16 0 48 0 1 0 0 0 1 0 -0 0 1 dini-legs-young.ldr
 0 NOFILE
 0 FILE mrdini-head-with-orange-eye.ldr
 0 what it says on the tin
